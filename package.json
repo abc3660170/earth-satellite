@@ -1,0 +1,8 @@
+{
+  "name": "earth-satellite",
+  "version": "0.0.1",
+  "description": "satellite goes around earth by threejs ",
+  "main": "index.html",
+  "author": "tchen",
+  "license": "MIT"
+}
